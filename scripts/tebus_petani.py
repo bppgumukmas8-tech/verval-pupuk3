@@ -22,12 +22,11 @@ from googleapiclient.http import MediaIoBaseDownload
 # =====================================================
 # KONFIGURASI
 # =====================================================
-ERDKK_FOLDER_ID = "13N5dLdHzAKff6g8RDRiHa7LFyZbdJUCJ"
-REALISASI_FOLDER_ID = "1AXQdEUW1dXRcdT0m0QkzvT7ZJjN0Vt4E"
-OUTPUT_SPREADSHEET_ID = "1BmaYGnBTAyW6JoI0NGweO0lDgNxiTwH-SiNXTrhRLnM"
+ERDKK_FOLDER_ID = "1BBgVsgq7EMGs0TLaO_4GEtUppznm1v5J"
+REALISASI_FOLDER_ID = "1-7LZB_kvL8zAAsG8w5yIQmdNRoIahz8m"
+OUTPUT_SPREADSHEET_ID = "1N7E11JQow42w5JIV-a6bGFeKXPGXNlqCwdggDnvGeQc"
 OUTPUT_SPREADSHEET_URL = (
-    "https://docs.google.com/spreadsheets/d/"
-    "1BmaYGnBTAyW6JoI0NGweO0lDgNxiTwH-SiNXTrhRLnM/edit"
+    "https://docs.google.com/spreadsheets/d/1N7E11JQow42w5JIV-a6bGFeKXPGXNlqCwdggDnvGeQc/edit"
 )
 
 SERVICE_ACCOUNT_JSON = os.environ.get("GOOGLE_APPLICATION_CREDENTIALS_JSON")
