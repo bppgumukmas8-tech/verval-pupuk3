@@ -15,7 +15,7 @@ from collections import defaultdict
 # KONFIGURASI (TETAP)
 # ----------------------------------------------------
 
-FOLDER_ID = "1AXQdEUW1dXRcdT0m0QkzvT7ZJjN0Vt4E"
+FOLDER_ID = "1BBgVsgq7EMGs0TLaO_4GEtUppznm1v5J"
 ARCHIVE_FOLDER_ID = "1ZawIfza3gLheAfl2D5ocliV0LWpzFFD_"
 
 SENDER_EMAIL = os.environ.get("SENDER_EMAIL")
