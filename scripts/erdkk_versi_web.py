@@ -18,9 +18,9 @@ from collections import defaultdict
 # ============================
 # KONFIGURASI
 # ============================
-FOLDER_ID = "13N5dLdHzAKff6g8RDRiHa7LFyZbdJUCJ"  # Folder Google Drive ERDKK
+FOLDER_ID = "1BBgVsgq7EMGs0TLaO_4GEtUppznm1v5J"  # Folder Google Drive ERDKK
 SAVE_FOLDER = "data_erdkk"  # Folder lokal di runner
-SPREADSHEET_ID = "1aEx7cgw1KIdpXo20dD3LnCHF6PWer1wWgT7H5YKSqlY"
+SPREADSHEET_ID = "1Wsto8nQHkM00p4wVSs978QvG6nJSo10e9luPM-J9wVk"
 SHEET_NAME = "Hasil_Rekap"
 
 # ============================
