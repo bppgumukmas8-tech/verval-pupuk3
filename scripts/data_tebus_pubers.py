@@ -17,9 +17,9 @@ from email.mime.multipart import MIMEMultipart
 # ============================
 # KONFIGURASI
 # ============================
-FOLDER_ID = "1AXQdEUW1dXRcdT0m0QkzvT7ZJjN0Vt4E"  # Folder Google Drive
+FOLDER_ID = "1-7LZB_kvL8zAAsG8w5yIQmdNRoIahz8m"  # Folder Google Drive
 SAVE_FOLDER = "data_bulanan"  # Folder lokal di runner
-SPREADSHEET_ID = "1wcfplBgnpZmYZR-I6p774DZKBjz8cG326F8Z_EK4KDM"
+SPREADSHEET_ID = "1mObLomLJjyz1cM8KagHzMcjqlO6zGW3Rf8Qnwng5SSY"
 SHEET_NAME = "Rekap_Gabungan"
 
 # ============================
