@@ -23,9 +23,9 @@ import io
 # ============================
 # KONFIGURASI
 # ============================
-FOLDER_ID = "1AXQdEUW1dXRcdT0m0QkzvT7ZJjN0Vt4E"
-KECAMATAN_SHEET_URL = "https://docs.google.com/spreadsheets/d/11-fOg3AdSodQeOUwYqkK7GlWSTc1r_1t7pmKGbF9cWI/edit"
-KIOS_SHEET_URL = "https://docs.google.com/spreadsheets/d/1lCPLDLKOtiiUfMCM9cnYv_vXSxaPbbR-TOeLKuBvWxc/edit"
+FOLDER_ID = "1-7LZB_kvL8zAAsG8w5yIQmdNRoIahz8m"
+KECAMATAN_SHEET_URL = "https://docs.google.com/spreadsheets/d/1doC0t-ni1up79sxAIB_uxT9yNlNm5u4FetGbIgLtiK8/edit"
+KIOS_SHEET_URL = "https://docs.google.com/spreadsheets/d/1R5ok4B-0AAlZd3gblMViRrlD7hGw4hchynS4tT2d0gc/edit"
 
 # OPTIMIZED RATE LIMITING
 MAX_RETRIES = 5
